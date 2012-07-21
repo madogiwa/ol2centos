@@ -4,13 +4,15 @@
 # CentOS yum repository.
 
 #
-# Author: Hidenori Sugiyama <madogiwa@gmail.com>
-#
-# Copyright 2012 Hidenori Sugiyama
-#
 # This script is derived from https://linux.oracle.com/switch/centos2ol.sh
+# ( https://linux.oracle.com/switch/centos/ )
+#
+# modified by Hidenori Sugiyama <madogiwa@gmail.com>
 #
 
+# 
+# (original copyright notice)
+#
 # Author: Tim Hill <tim.hill@oracle.com>
 #
 # Copyright 2012 Oracle, Inc.
